@@ -1,0 +1,10 @@
+langchain==0.3.24
+langchain-community==0.3.23
+langchain-experimental==0.3.4
+langchain-neo4j==0.4.0
+langchain-openai==0.3.16
+neo4j==5.28.1
+openai==1.76.2
+pypdf==5.4.0
+wikipedia==1.4.0
+dotenv
