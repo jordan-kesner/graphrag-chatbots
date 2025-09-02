@@ -7,4 +7,6 @@ neo4j==5.28.1
 openai==1.76.2
 pypdf==5.4.0
 wikipedia==1.4.0
-dotenv
+python-dotenv==1.0.0
+numpy==1.24.4
+pandas==2.0.3
